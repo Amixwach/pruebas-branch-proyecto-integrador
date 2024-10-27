@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+    font-size: 1rem; 
+    margin: 20px;
+    padding: 0px;
+    color: #333;
+    background-color: #f3f3f3;
+}
+
+
+/* ESTILO PARA EL TITULO DE ESTA PAGINA */
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* ESTILO PARA CADA TYC */
+li  {
+    margin: 10px;
+}
+
+/* ESTILO PARA EL BOTON A WHATSAPP */
+a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
